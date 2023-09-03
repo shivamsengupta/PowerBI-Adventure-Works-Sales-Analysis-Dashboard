@@ -1,5 +1,3 @@
-# PowerBI-Adventure-Works-Sales-Analysis-Dashboard
-
 # Adventure Works PowerBI Analysis Project
 
 Welcome to the Adventure Works PowerBI Analysis project! This project focuses on analyzing data from the Adventure Works shop, covering Orders, Customers, and Products tables.
