@@ -37,7 +37,7 @@ Welcome to the Adventure Works PowerBI Analysis project! This project focuses on
 
 ## Demo Video
 
-Watch a video demonstration of this project [here](https://github.com/shivamsengupta/PowerBI-Adventure-Works-Sales-Analysis-Dashboard/blob/main/Adventure%20Works.mp4).
+Watch a video demonstration of this project [here](https://drive.google.com/file/d/1zv2liqMdJi3ZZXF8mWxJHObQD8n6gSAT/view?usp=sharing).
 
 
 Happy learning! 🙌
